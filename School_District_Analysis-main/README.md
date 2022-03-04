@@ -2,7 +2,6 @@
 
 [Project Overview](#project-overview)
 
-[Resources](#resources)
 
 [Results](#results)
 
@@ -22,12 +21,6 @@ Given a large amount of student and school related data, we've been tasked with 
 
 ---
 
-## Resources
-**Source Files:** [schools_complete.csv](https://github.com/ZeroDarkHardy/School_District_Analysis/blob/main/Resources/schools_complete.csv), [students_complete.csv](https://github.com/ZeroDarkHardy/School_District_Analysis/blob/main/Resources/students_complete.csv)
-
-**Python Code (via Jupyter Notebook):** [PyCitySchools_Challenge.ipynb](https://github.com/ZeroDarkHardy/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb), [PyCitySchools.ipynb](https://github.com/ZeroDarkHardy/School_District_Analysis/blob/main/PyCitySchools.ipynb)
-
-**Software:** Python 3.7.10, Anaconda, Jupyter Notebook, Visual Studio Code 1.62.1
 
 ## Results
 Potential academic dishonesty was observed within our data sample, neccesitating the exclusion of all data pertaining to the 9th grade class at Thomas High School (all values for THS 9th grade test results replaced with NaN).  Below we will compare the previous and current outputs, before and after the data was re-averaged to consider the ineligible test results.
